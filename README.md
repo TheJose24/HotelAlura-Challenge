@@ -37,8 +37,10 @@ Esta aplicación forma parte del tercer desafío del programa Oracle ONE, que ti
 
 ## Tecnologías Utilizadas
 
-- Java 20
-- MySQL
+- Java
+- NetBeans
+- Biblioteca JCalendar
+- MySql
 
 ## Persona Desarrolladora del Proyecto
 
